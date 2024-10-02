@@ -1,6 +1,6 @@
-![code coverage badge](https://github.com/AdamarArcane/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
-
 # learn-cicd-starter (Notely)
+
+![code coverage badge](https://github.com/AdamarArcane/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 This repo contains the starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
 
@@ -24,4 +24,4 @@ go build -o notely && ./notely
 
 You do *not* need to set up a database or any interactivity on the webpage yet. Instructions for that will come later in the course!
 
-I am adding to the readme as an example change! :)
+I am adding to the readme as an example change! :) Help
