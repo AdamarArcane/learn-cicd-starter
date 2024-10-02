@@ -27,7 +27,7 @@ jobs:
       - name: Build
         run: ./scripts/buildprod.sh
 
-      - name: Database migration
+      - name: Database migration up
         run: ./scripts/migrateup.sh
 
       - id: 'auth'
